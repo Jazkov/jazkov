@@ -6,7 +6,8 @@ Hola a todos, Soy Jahaziel ¡Encantado de conocerte!👋
 
 ### :man_technologist: Sobre mí:
 
-Apasionado por la tecnología y difrutando de una transición laboral en QA Enginner.
+Soy una persona apasionada por la tecnología que se encuentra difrutando de una transición laboral hacia QA Enginner.
+
 * 👨‍🏫 Actualmente trabajo como docente en la materia de inglés en el nivel medio superior.
   
 * 🔭 Me gusta mucho aprender cosas nuevas y estar en constante actualización.
