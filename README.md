@@ -9,7 +9,7 @@ Hola a todos, Soy Jahaziel ¡Encantado de conocerte!👋
 Apasionado por la tecnología y difrutando de una transición laboral en QA Enginner.
 * 👨‍🏫 Actualmente trabajo como docente en la materia de inglés en el nivel medio superior.
   
-* 🔭 Me gusta mucho aprender nuevas cosas nuevas y estar en constante actualización.
+* 🔭 Me gusta mucho aprender cosas nuevas y estar en constante actualización.
   
 * 🧑‍🎓 Recientemente terminando un bootcamp en Tripleten para ser QA Enginner, emocionado por adentrarme en el mundo de la tecnología.
 
