@@ -1,6 +1,13 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Jazkov/jazkov/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" width="800"/>
 </div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jahaziel-ebed-kolansinsky-victoria-298070213/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+  </a>
+</div>
+  
 </H1>
 Hola a todos, Soy Jahaziel ¡Encantado de conocerte!👋 
 
