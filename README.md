@@ -1,4 +1,7 @@
-<H1>
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/Jazkov/jazkov/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" width="800"/>
+</div>
+</H1>
 Hola a todos, Soy Jahaziel ¡Encantado de conocerte!👋 
 
 <!--
