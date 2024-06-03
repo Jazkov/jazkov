@@ -25,7 +25,8 @@ Soy una persona apasionada por la tecnología que se encuentra difrutando de una
 * 🧑‍🎓 Recientemente terminando un bootcamp en Tripleten para ser QA Enginner, emocionado por adentrarme en el mundo de la tecnología.
 
 ### 🤖 Tecnologías:
-
+<div align="center">
+  
 <img decoding="async" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
 <img decoding="async" src="https://img.shields.io/badge/Charles%20Proxy-3C3C3C?logoColor=white" alt="Charles Proxy"/>
 <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium"/>
