@@ -22,7 +22,7 @@ Soy una persona apasionada por la tecnología que se encuentra difrutando de una
   
 * 🔭 Me gusta mucho aprender cosas nuevas y estar en constante actualización.
   
-* 🧑‍🎓 Recientemente terminando un bootcamp en Tripleten para ser QA Enginner, emocionado por adentrarme en el mundo de la tecnología.
+* 🧑‍🎓 Recientemente terminando un bootcamp en Tripleten para ser QA Engineer, emocionado por adentrarme en el mundo de la tecnología.
 
 ### 🤖 Tecnologías:
 <div align="center">
