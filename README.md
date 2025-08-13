@@ -35,7 +35,13 @@ Soy una persona apasionada por la tecnología que se encuentra difrutando de una
 <img decoding="async" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="mysql"/>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<br><br> <!-- Espacio antes de la sección -->
+
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <!-- Estadísticas a la izquierda -->
   <img src="https://github-readme-stats.vercel.app/api?username=Jazkov&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
+  
+  <!-- Lenguajes a la derecha -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazkov&layout=compact&theme=radical" alt="Top Langs" height="180"/>
 </div>
