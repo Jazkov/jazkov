@@ -33,3 +33,6 @@ Soy una persona apasionada por la tecnología que se encuentra difrutando de una
 <img decoding="async" src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest"/>
 <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
 <img decoding="async" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="mysql"/>
+
+## 📊 GitHub Stats
+![Jahaziel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jazkov&show_icons=true&theme=radical)
