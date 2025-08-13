@@ -34,8 +34,6 @@ Soy una persona apasionada por la tecnología que se encuentra difrutando de una
 <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
 <img decoding="async" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="mysql"/>
 
-## 📊 GitHub Stats
-![Jahaziel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jazkov&show_icons=true&theme=radical)
-
-## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jazkov&layout=compact&theme=radical)
+| 📊 GitHub Stats | 📈 Most Used Languages |
+| --- | --- |
+| ![Jahaziel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jazkov&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jazkov&layout=compact&theme=radical) |
